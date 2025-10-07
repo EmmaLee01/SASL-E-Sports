@@ -1,7 +1,7 @@
 import requests as rq
 import json
 
-myAPI = "kMsYcNeUFBEnx36W0W3LYhq8g2BZvk8YjLXTziVc" 
+myAPI = "cnE7TzLHIOiOL5iBw2YrdpS7tn8iEbyVya7JtPXA" 
 
 headers = {
     "x-api-key": myAPI,
