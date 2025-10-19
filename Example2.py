@@ -9,13 +9,15 @@ headers = {
 }
 
 GRAPHQL_ENDPOINT = "https://api-op.grid.gg/central-data/graphql"
+GraphQL_ENDPOINT_LD = "https://api-op.grid.gg/live-data-feed/series-state/graphql"
+
 
 graphql_query = """
 query Series {
     allSeries (
         first: 50,
         filter: {
-            titleId: 1
+            titleId: 28
             types: ESPORTS
         }
         orderBy: StartTimeScheduled

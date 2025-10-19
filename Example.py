@@ -63,12 +63,12 @@ query Series {
 
 
 
-payload = {
-    "query": graphql_query
-}
-response = rq.post(GRAPHQL_ENDPOINT, headers=headers) #data=json.dumps(payload))
-if response.status_code == 200:
-    data = response.json()
-    print(data)
-else:
-    print(f"Request failed with status code: {response.status_code}")
+#payload = {
+#    "query": graphql_query
+#}
+#response = rq.post(GRAPHQL_ENDPOINT, headers=headers) #data=json.dumps(payload))
+#if response.status_code == 200:
+#    data = response.json()
+#    print(data)
+#else:
+#    print(f"Request failed with status code: {response.status_code}")
