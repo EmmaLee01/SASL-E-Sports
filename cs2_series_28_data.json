@@ -1,0 +1,1051 @@
+{
+  "data": {
+    "seriesState": {
+      "id": "28",
+      "version": "3.47",
+      "format": "best-of-3",
+      "started": true,
+      "finished": false,
+      "valid": true,
+      "updatedAt": "2025-10-28T17:05:09.983Z",
+      "startedAt": "2025-10-28T15:35:41.607Z",
+      "duration": "PT1H29M28.376S",
+      "title": {
+        "nameShortened": "cs2"
+      },
+      "teams": [
+        {
+          "id": "52314",
+          "name": "CS2-1"
+        },
+        {
+          "id": "52315",
+          "name": "CS2-2"
+        }
+      ],
+      "games": [
+        {
+          "id": "290c4988-b4b8-4abb-8390-dfaba294a530",
+          "sequenceNumber": 1,
+          "type": "ESPORTS",
+          "started": true,
+          "finished": true,
+          "paused": false,
+          "startedAt": "2025-10-28T15:35:44.994Z",
+          "duration": "PT1H2M27.012S",
+          "clock": {
+            "id": "ae3870d7-bf2a-363b-aba2-d0ef2dc54612",
+            "type": "gameClock",
+            "ticking": false,
+            "ticksBackwards": true,
+            "currentSeconds": 69
+          },
+          "map": {
+            "name": "dust2"
+          },
+          "teams": [
+            {
+              "id": "52314",
+              "name": "CS2-1",
+              "side": "terrorists",
+              "won": false,
+              "score": 15,
+              "money": 54500,
+              "loadoutValue": 0,
+              "netWorth": 54500,
+              "kills": 118,
+              "deaths": 135,
+              "killAssistsReceived": 34,
+              "killAssistsGiven": 34,
+              "teamkills": 0,
+              "selfkills": 0,
+              "structuresDestroyed": 0,
+              "structuresCaptured": 0,
+              "firstKill": true,
+              "players": [
+                {
+                  "id": "76561198031539050",
+                  "name": "Enzo",
+                  "participationStatus": "active",
+                  "money": 10600,
+                  "loadoutValue": 0,
+                  "netWorth": 10600,
+                  "kills": 24,
+                  "deaths": 26,
+                  "killAssistsReceived": 9,
+                  "killAssistsGiven": 5,
+                  "firstKill": false,
+                  "teamkills": 0,
+                  "teamkillAssistsReceived": 0,
+                  "teamkillAssistsGiven": 0,
+                  "selfkills": 0,
+                  "structuresDestroyed": 0,
+                  "structuresCaptured": 0,
+                  "position": {
+                    "x": -1994.6,
+                    "y": 1723.2
+                  },
+                  "character": {
+                    "name": "terrorist"
+                  }
+                },
+                {
+                  "id": "76561198113182046",
+                  "name": "yvro",
+                  "participationStatus": "active",
+                  "money": 11100,
+                  "loadoutValue": 0,
+                  "netWorth": 11100,
+                  "kills": 16,
+                  "deaths": 24,
+                  "killAssistsReceived": 6,
+                  "killAssistsGiven": 6,
+                  "firstKill": false,
+                  "teamkills": 0,
+                  "teamkillAssistsReceived": 0,
+                  "teamkillAssistsGiven": 1,
+                  "selfkills": 0,
+                  "structuresDestroyed": 0,
+                  "structuresCaptured": 0,
+                  "position": {
+                    "x": -1994.6,
+                    "y": 1723.2
+                  },
+                  "character": {
+                    "name": "terrorist"
+                  }
+                },
+                {
+                  "id": "76561198191011338",
+                  "name": "Nami",
+                  "participationStatus": "active",
+                  "money": 10700,
+                  "loadoutValue": 0,
+                  "netWorth": 10700,
+                  "kills": 26,
+                  "deaths": 31,
+                  "killAssistsReceived": 5,
+                  "killAssistsGiven": 6,
+                  "firstKill": true,
+                  "teamkills": 0,
+                  "teamkillAssistsReceived": 0,
+                  "teamkillAssistsGiven": 1,
+                  "selfkills": 0,
+                  "structuresDestroyed": 0,
+                  "structuresCaptured": 0,
+                  "position": {
+                    "x": -1994.6,
+                    "y": 1723.2
+                  },
+                  "character": {
+                    "name": "terrorist"
+                  }
+                },
+                {
+                  "id": "76561198215765908",
+                  "name": "darchevile",
+                  "participationStatus": "active",
+                  "money": 10700,
+                  "loadoutValue": 0,
+                  "netWorth": 10700,
+                  "kills": 20,
+                  "deaths": 30,
+                  "killAssistsReceived": 5,
+                  "killAssistsGiven": 12,
+                  "firstKill": false,
+                  "teamkills": 0,
+                  "teamkillAssistsReceived": 0,
+                  "teamkillAssistsGiven": 0,
+                  "selfkills": 0,
+                  "structuresDestroyed": 0,
+                  "structuresCaptured": 0,
+                  "position": {
+                    "x": -1994.6,
+                    "y": 1723.2
+                  },
+                  "character": {
+                    "name": "terrorist"
+                  }
+                },
+                {
+                  "id": "76561198388875820",
+                  "name": "chudy",
+                  "participationStatus": "active",
+                  "money": 11400,
+                  "loadoutValue": 0,
+                  "netWorth": 11400,
+                  "kills": 32,
+                  "deaths": 24,
+                  "killAssistsReceived": 9,
+                  "killAssistsGiven": 5,
+                  "firstKill": false,
+                  "teamkills": 0,
+                  "teamkillAssistsReceived": 0,
+                  "teamkillAssistsGiven": 0,
+                  "selfkills": 0,
+                  "structuresDestroyed": 0,
+                  "structuresCaptured": 0,
+                  "position": {
+                    "x": -1994.6,
+                    "y": 1723.2
+                  },
+                  "character": {
+                    "name": "terrorist"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "52315",
+              "name": "CS2-2",
+              "side": "counter-terrorists",
+              "won": true,
+              "score": 19,
+              "money": 46800,
+              "loadoutValue": 16300,
+              "netWorth": 63100,
+              "kills": 135,
+              "deaths": 118,
+              "killAssistsReceived": 40,
+              "killAssistsGiven": 38,
+              "teamkills": 0,
+              "selfkills": 0,
+              "structuresDestroyed": 0,
+              "structuresCaptured": 0,
+              "firstKill": false,
+              "players": [
+                {
+                  "id": "76561198119088041",
+                  "name": "SELLTER",
+                  "participationStatus": "active",
+                  "money": 6000,
+                  "loadoutValue": 0,
+                  "netWorth": 6000,
+                  "kills": 28,
+                  "deaths": 27,
+                  "killAssistsReceived": 4,
+                  "killAssistsGiven": 13,
+                  "firstKill": false,
+                  "teamkills": 0,
+                  "teamkillAssistsReceived": 0,
+                  "teamkillAssistsGiven": 0,
+                  "selfkills": 0,
+                  "structuresDestroyed": 0,
+                  "structuresCaptured": 0,
+                  "position": {
+                    "x": -1302.9,
+                    "y": 2683.5
+                  },
+                  "character": {
+                    "name": "counter-terrorist"
+                  }
+                },
+                {
+                  "id": "76561198141272052",
+                  "name": "xiELO-",
+                  "participationStatus": "active",
+                  "money": 8550,
+                  "loadoutValue": 4800,
+                  "netWorth": 13350,
+                  "kills": 24,
+                  "deaths": 24,
+                  "killAssistsReceived": 9,
+                  "killAssistsGiven": 5,
+                  "firstKill": false,
+                  "teamkills": 0,
+                  "teamkillAssistsReceived": 0,
+                  "teamkillAssistsGiven": 0,
+                  "selfkills": 0,
+                  "structuresDestroyed": 0,
+                  "structuresCaptured": 0,
+                  "position": {
+                    "x": -891.0,
+                    "y": 2241.1
+                  },
+                  "character": {
+                    "name": "counter-terrorist"
+                  }
+                },
+                {
+                  "id": "76561198318025977",
+                  "name": "easy",
+                  "participationStatus": "active",
+                  "money": 8450,
+                  "loadoutValue": 0,
+                  "netWorth": 8450,
+                  "kills": 27,
+                  "deaths": 23,
+                  "killAssistsReceived": 7,
+                  "killAssistsGiven": 4,
+                  "firstKill": false,
+                  "teamkills": 0,
+                  "teamkillAssistsReceived": 0,
+                  "teamkillAssistsGiven": 0,
+                  "selfkills": 0,
+                  "structuresDestroyed": 0,
+                  "structuresCaptured": 0,
+                  "position": {
+                    "x": -586.9,
+                    "y": 284.3
+                  },
+                  "character": {
+                    "name": "counter-terrorist"
+                  }
+                },
+                {
+                  "id": "76561198829202374",
+                  "name": "Sdaim",
+                  "participationStatus": "active",
+                  "money": 10300,
+                  "loadoutValue": 5000,
+                  "netWorth": 15300,
+                  "kills": 21,
+                  "deaths": 22,
+                  "killAssistsReceived": 9,
+                  "killAssistsGiven": 10,
+                  "firstKill": false,
+                  "teamkills": 0,
+                  "teamkillAssistsReceived": 0,
+                  "teamkillAssistsGiven": 0,
+                  "selfkills": 0,
+                  "structuresDestroyed": 0,
+                  "structuresCaptured": 0,
+                  "position": {
+                    "x": -586.9,
+                    "y": 284.3
+                  },
+                  "character": {
+                    "name": "counter-terrorist"
+                  }
+                },
+                {
+                  "id": "76561198872013168",
+                  "name": "tN1R",
+                  "participationStatus": "active",
+                  "money": 13500,
+                  "loadoutValue": 6500,
+                  "netWorth": 20000,
+                  "kills": 35,
+                  "deaths": 22,
+                  "killAssistsReceived": 11,
+                  "killAssistsGiven": 6,
+                  "firstKill": false,
+                  "teamkills": 0,
+                  "teamkillAssistsReceived": 0,
+                  "teamkillAssistsGiven": 0,
+                  "selfkills": 0,
+                  "structuresDestroyed": 0,
+                  "structuresCaptured": 0,
+                  "position": {
+                    "x": -1302.9,
+                    "y": 2683.5
+                  },
+                  "character": {
+                    "name": "counter-terrorist"
+                  }
+                }
+              ]
+            }
+          ],
+          "segments": [
+            {
+              "id": "round-1",
+              "type": "round",
+              "sequenceNumber": 1,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T15:35:44.994Z",
+              "duration": "PT2M8.788S"
+            },
+            {
+              "id": "round-2",
+              "type": "round",
+              "sequenceNumber": 2,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T15:37:53.782Z",
+              "duration": "PT56.201S"
+            },
+            {
+              "id": "round-3",
+              "type": "round",
+              "sequenceNumber": 3,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T15:38:49.983Z",
+              "duration": "PT1M20.799S"
+            },
+            {
+              "id": "round-4",
+              "type": "round",
+              "sequenceNumber": 4,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T15:40:10.782Z",
+              "duration": "PT1M8.2S"
+            },
+            {
+              "id": "round-5",
+              "type": "round",
+              "sequenceNumber": 5,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T15:41:18.982Z",
+              "duration": "PT2M32.813S"
+            },
+            {
+              "id": "round-6",
+              "type": "round",
+              "sequenceNumber": 6,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T15:43:51.795Z",
+              "duration": "PT1M57.389S"
+            },
+            {
+              "id": "round-7",
+              "type": "round",
+              "sequenceNumber": 7,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T15:45:49.184Z",
+              "duration": "PT1M55.197S"
+            },
+            {
+              "id": "round-8",
+              "type": "round",
+              "sequenceNumber": 8,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T15:47:44.381Z",
+              "duration": "PT1M15.84S"
+            },
+            {
+              "id": "round-9",
+              "type": "round",
+              "sequenceNumber": 9,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T15:49:00.221Z",
+              "duration": "PT1M36.974S"
+            },
+            {
+              "id": "round-10",
+              "type": "round",
+              "sequenceNumber": 10,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T15:50:37.195Z",
+              "duration": "PT2M34.787S"
+            },
+            {
+              "id": "round-11",
+              "type": "round",
+              "sequenceNumber": 11,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T15:53:11.982Z",
+              "duration": "PT1M35.068S"
+            },
+            {
+              "id": "round-12",
+              "type": "round",
+              "sequenceNumber": 12,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T15:54:47.050Z",
+              "duration": "PT2M19.732S"
+            },
+            {
+              "id": "round-13",
+              "type": "round",
+              "sequenceNumber": 13,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T15:57:06.782Z",
+              "duration": "PT1M31.416S"
+            },
+            {
+              "id": "round-14",
+              "type": "round",
+              "sequenceNumber": 14,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T15:58:38.198Z",
+              "duration": "PT1M48.584S"
+            },
+            {
+              "id": "round-15",
+              "type": "round",
+              "sequenceNumber": 15,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T16:00:26.782Z",
+              "duration": "PT1M37.4S"
+            },
+            {
+              "id": "round-16",
+              "type": "round",
+              "sequenceNumber": 16,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T16:02:04.182Z",
+              "duration": "PT1M52.6S"
+            },
+            {
+              "id": "round-17",
+              "type": "round",
+              "sequenceNumber": 17,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T16:03:56.782Z",
+              "duration": "PT2M49.799S"
+            },
+            {
+              "id": "round-18",
+              "type": "round",
+              "sequenceNumber": 18,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T16:06:46.581Z",
+              "duration": "PT2M0.803S"
+            },
+            {
+              "id": "round-19",
+              "type": "round",
+              "sequenceNumber": 19,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T16:08:47.384Z",
+              "duration": "PT2M36.999S"
+            },
+            {
+              "id": "round-20",
+              "type": "round",
+              "sequenceNumber": 20,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T16:11:24.383Z",
+              "duration": "PT1M25.799S"
+            },
+            {
+              "id": "round-21",
+              "type": "round",
+              "sequenceNumber": 21,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T16:12:50.182Z",
+              "duration": "PT52.001S"
+            },
+            {
+              "id": "round-22",
+              "type": "round",
+              "sequenceNumber": 22,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T16:13:42.183Z",
+              "duration": "PT2M18.202S"
+            },
+            {
+              "id": "round-23",
+              "type": "round",
+              "sequenceNumber": 23,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T16:16:00.385Z",
+              "duration": "PT1M5.397S"
+            },
+            {
+              "id": "round-24",
+              "type": "round",
+              "sequenceNumber": 24,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T16:17:05.782Z",
+              "duration": "PT3M55.999S"
+            },
+            {
+              "id": "round-25",
+              "type": "round",
+              "sequenceNumber": 25,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T16:21:01.781Z",
+              "duration": "PT1M4.801S"
+            },
+            {
+              "id": "round-26",
+              "type": "round",
+              "sequenceNumber": 26,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T16:22:06.582Z",
+              "duration": "PT1M22.4S"
+            },
+            {
+              "id": "round-27",
+              "type": "round",
+              "sequenceNumber": 27,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T16:23:28.982Z",
+              "duration": "PT2M23.601S"
+            },
+            {
+              "id": "round-28",
+              "type": "round",
+              "sequenceNumber": 28,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T16:25:52.583Z",
+              "duration": "PT2M5.998S"
+            },
+            {
+              "id": "round-29",
+              "type": "round",
+              "sequenceNumber": 29,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T16:27:58.581Z",
+              "duration": "PT1M41.802S"
+            },
+            {
+              "id": "round-30",
+              "type": "round",
+              "sequenceNumber": 30,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T16:29:40.383Z",
+              "duration": "PT2M10.411S"
+            },
+            {
+              "id": "round-31",
+              "type": "round",
+              "sequenceNumber": 31,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T16:31:50.794Z",
+              "duration": "PT1M48.388S"
+            },
+            {
+              "id": "round-32",
+              "type": "round",
+              "sequenceNumber": 32,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T16:33:39.182Z",
+              "duration": "PT1M14S"
+            },
+            {
+              "id": "round-33",
+              "type": "round",
+              "sequenceNumber": 33,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T16:34:53.182Z",
+              "duration": "PT2M7.2S"
+            },
+            {
+              "id": "round-34",
+              "type": "round",
+              "sequenceNumber": 34,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T16:37:00.382Z",
+              "duration": "PT1M11.624S"
+            }
+          ]
+        },
+        {
+          "id": "c3ea6457-831b-43bf-87c9-28c0b032540d",
+          "sequenceNumber": 2,
+          "type": "ESPORTS",
+          "started": true,
+          "finished": false,
+          "paused": false,
+          "startedAt": "2025-10-28T16:52:07.004Z",
+          "duration": "PT13M2.979S",
+          "clock": {
+            "id": "f4d01ddd-af4d-368a-be28-028c40ba9d09",
+            "type": "gameClock",
+            "ticking": true,
+            "ticksBackwards": true,
+            "currentSeconds": 35
+          },
+          "map": {
+            "name": "anubis"
+          },
+          "teams": [
+            {
+              "id": "52314",
+              "name": "CS2-1",
+              "side": "counter-terrorists",
+              "won": false,
+              "score": 2,
+              "money": 10700,
+              "loadoutValue": 3600,
+              "netWorth": 14300,
+              "kills": 24,
+              "deaths": 26,
+              "killAssistsReceived": 9,
+              "killAssistsGiven": 9,
+              "teamkills": 0,
+              "selfkills": 0,
+              "structuresDestroyed": 0,
+              "structuresCaptured": 0,
+              "firstKill": true,
+              "players": [
+                {
+                  "id": "76561198031539050",
+                  "name": "Enzo",
+                  "participationStatus": "active",
+                  "money": 3400,
+                  "loadoutValue": 2400,
+                  "netWorth": 5800,
+                  "kills": 5,
+                  "deaths": 2,
+                  "killAssistsReceived": 3,
+                  "killAssistsGiven": 1,
+                  "firstKill": false,
+                  "teamkills": 0,
+                  "teamkillAssistsReceived": 0,
+                  "teamkillAssistsGiven": 0,
+                  "selfkills": 0,
+                  "structuresDestroyed": 0,
+                  "structuresCaptured": 0,
+                  "position": {
+                    "x": 302.5,
+                    "y": 1367.2
+                  },
+                  "character": {
+                    "name": "counter-terrorist"
+                  }
+                },
+                {
+                  "id": "76561198113182046",
+                  "name": "yvro",
+                  "participationStatus": "active",
+                  "money": 1800,
+                  "loadoutValue": 0,
+                  "netWorth": 1800,
+                  "kills": 3,
+                  "deaths": 6,
+                  "killAssistsReceived": 2,
+                  "killAssistsGiven": 1,
+                  "firstKill": false,
+                  "teamkills": 0,
+                  "teamkillAssistsReceived": 0,
+                  "teamkillAssistsGiven": 0,
+                  "selfkills": 0,
+                  "structuresDestroyed": 0,
+                  "structuresCaptured": 0,
+                  "position": {
+                    "x": 302.5,
+                    "y": 1367.2
+                  },
+                  "character": {
+                    "name": "counter-terrorist"
+                  }
+                },
+                {
+                  "id": "76561198191011338",
+                  "name": "Nami",
+                  "participationStatus": "active",
+                  "money": 2050,
+                  "loadoutValue": 500,
+                  "netWorth": 2550,
+                  "kills": 3,
+                  "deaths": 6,
+                  "killAssistsReceived": 0,
+                  "killAssistsGiven": 3,
+                  "firstKill": true,
+                  "teamkills": 0,
+                  "teamkillAssistsReceived": 0,
+                  "teamkillAssistsGiven": 0,
+                  "selfkills": 0,
+                  "structuresDestroyed": 0,
+                  "structuresCaptured": 0,
+                  "position": {
+                    "x": -154.7,
+                    "y": 414.7
+                  },
+                  "character": {
+                    "name": "counter-terrorist"
+                  }
+                },
+                {
+                  "id": "76561198215765908",
+                  "name": "darchevile",
+                  "participationStatus": "active",
+                  "money": 1000,
+                  "loadoutValue": 0,
+                  "netWorth": 1000,
+                  "kills": 5,
+                  "deaths": 6,
+                  "killAssistsReceived": 3,
+                  "killAssistsGiven": 2,
+                  "firstKill": false,
+                  "teamkills": 0,
+                  "teamkillAssistsReceived": 0,
+                  "teamkillAssistsGiven": 0,
+                  "selfkills": 0,
+                  "structuresDestroyed": 0,
+                  "structuresCaptured": 0,
+                  "position": {
+                    "x": 302.5,
+                    "y": 1367.2
+                  },
+                  "character": {
+                    "name": "counter-terrorist"
+                  }
+                },
+                {
+                  "id": "76561198388875820",
+                  "name": "chudy",
+                  "participationStatus": "active",
+                  "money": 2450,
+                  "loadoutValue": 700,
+                  "netWorth": 3150,
+                  "kills": 8,
+                  "deaths": 6,
+                  "killAssistsReceived": 1,
+                  "killAssistsGiven": 2,
+                  "firstKill": false,
+                  "teamkills": 0,
+                  "teamkillAssistsReceived": 0,
+                  "teamkillAssistsGiven": 0,
+                  "selfkills": 0,
+                  "structuresDestroyed": 0,
+                  "structuresCaptured": 0,
+                  "position": {
+                    "x": -228.3,
+                    "y": 1900.9
+                  },
+                  "character": {
+                    "name": "counter-terrorist"
+                  }
+                }
+              ]
+            },
+            {
+              "id": "52315",
+              "name": "CS2-2",
+              "side": "terrorists",
+              "won": false,
+              "score": 4,
+              "money": 13000,
+              "loadoutValue": 16500,
+              "netWorth": 29500,
+              "kills": 26,
+              "deaths": 24,
+              "killAssistsReceived": 9,
+              "killAssistsGiven": 9,
+              "teamkills": 0,
+              "selfkills": 0,
+              "structuresDestroyed": 0,
+              "structuresCaptured": 0,
+              "firstKill": false,
+              "players": [
+                {
+                  "id": "76561198119088041",
+                  "name": "SELLTER",
+                  "participationStatus": "active",
+                  "money": 3000,
+                  "loadoutValue": 0,
+                  "netWorth": 3000,
+                  "kills": 10,
+                  "deaths": 6,
+                  "killAssistsReceived": 2,
+                  "killAssistsGiven": 1,
+                  "firstKill": false,
+                  "teamkills": 0,
+                  "teamkillAssistsReceived": 0,
+                  "teamkillAssistsGiven": 0,
+                  "selfkills": 0,
+                  "structuresDestroyed": 0,
+                  "structuresCaptured": 0,
+                  "position": {
+                    "x": 592.9,
+                    "y": -567.7
+                  },
+                  "character": {
+                    "name": "terrorist"
+                  }
+                },
+                {
+                  "id": "76561198141272052",
+                  "name": "xiELO-",
+                  "participationStatus": "active",
+                  "money": 4350,
+                  "loadoutValue": 4000,
+                  "netWorth": 8350,
+                  "kills": 6,
+                  "deaths": 5,
+                  "killAssistsReceived": 1,
+                  "killAssistsGiven": 2,
+                  "firstKill": false,
+                  "teamkills": 0,
+                  "teamkillAssistsReceived": 0,
+                  "teamkillAssistsGiven": 0,
+                  "selfkills": 0,
+                  "structuresDestroyed": 0,
+                  "structuresCaptured": 0,
+                  "position": {
+                    "x": 1130.3,
+                    "y": 1608.1
+                  },
+                  "character": {
+                    "name": "terrorist"
+                  }
+                },
+                {
+                  "id": "76561198318025977",
+                  "name": "easy",
+                  "participationStatus": "active",
+                  "money": 2550,
+                  "loadoutValue": 4200,
+                  "netWorth": 6750,
+                  "kills": 4,
+                  "deaths": 3,
+                  "killAssistsReceived": 2,
+                  "killAssistsGiven": 3,
+                  "firstKill": false,
+                  "teamkills": 0,
+                  "teamkillAssistsReceived": 0,
+                  "teamkillAssistsGiven": 0,
+                  "selfkills": 0,
+                  "structuresDestroyed": 0,
+                  "structuresCaptured": 0,
+                  "position": {
+                    "x": 592.9,
+                    "y": -567.7
+                  },
+                  "character": {
+                    "name": "terrorist"
+                  }
+                },
+                {
+                  "id": "76561198829202374",
+                  "name": "Sdaim",
+                  "participationStatus": "active",
+                  "money": 1750,
+                  "loadoutValue": 4400,
+                  "netWorth": 6150,
+                  "kills": 1,
+                  "deaths": 6,
+                  "killAssistsReceived": 1,
+                  "killAssistsGiven": 1,
+                  "firstKill": false,
+                  "teamkills": 0,
+                  "teamkillAssistsReceived": 0,
+                  "teamkillAssistsGiven": 0,
+                  "selfkills": 0,
+                  "structuresDestroyed": 0,
+                  "structuresCaptured": 0,
+                  "position": {
+                    "x": 435.0,
+                    "y": 1793.0
+                  },
+                  "character": {
+                    "name": "terrorist"
+                  }
+                },
+                {
+                  "id": "76561198872013168",
+                  "name": "tN1R",
+                  "participationStatus": "active",
+                  "money": 1350,
+                  "loadoutValue": 3900,
+                  "netWorth": 5250,
+                  "kills": 5,
+                  "deaths": 4,
+                  "killAssistsReceived": 3,
+                  "killAssistsGiven": 2,
+                  "firstKill": false,
+                  "teamkills": 0,
+                  "teamkillAssistsReceived": 0,
+                  "teamkillAssistsGiven": 0,
+                  "selfkills": 0,
+                  "structuresDestroyed": 0,
+                  "structuresCaptured": 0,
+                  "position": {
+                    "x": 1083.6,
+                    "y": 1569.6
+                  },
+                  "character": {
+                    "name": "terrorist"
+                  }
+                }
+              ]
+            }
+          ],
+          "segments": [
+            {
+              "id": "round-1",
+              "type": "round",
+              "sequenceNumber": 1,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T16:52:07.004Z",
+              "duration": "PT3M20.191S"
+            },
+            {
+              "id": "round-2",
+              "type": "round",
+              "sequenceNumber": 2,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T16:55:27.195Z",
+              "duration": "PT1M34.987S"
+            },
+            {
+              "id": "round-3",
+              "type": "round",
+              "sequenceNumber": 3,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T16:57:02.182Z",
+              "duration": "PT1M21.612S"
+            },
+            {
+              "id": "round-4",
+              "type": "round",
+              "sequenceNumber": 4,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T16:58:23.794Z",
+              "duration": "PT2M54.8S"
+            },
+            {
+              "id": "round-5",
+              "type": "round",
+              "sequenceNumber": 5,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T17:01:18.594Z",
+              "duration": "PT1M24.588S"
+            },
+            {
+              "id": "round-6",
+              "type": "round",
+              "sequenceNumber": 6,
+              "started": true,
+              "finished": true,
+              "startedAt": "2025-10-28T17:02:43.182Z",
+              "duration": "PT1M27.001S"
+            },
+            {
+              "id": "round-7",
+              "type": "round",
+              "sequenceNumber": 7,
+              "started": true,
+              "finished": false,
+              "startedAt": "2025-10-28T17:04:10.183Z",
+              "duration": "PT59.8S"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
