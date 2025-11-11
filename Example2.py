@@ -12,6 +12,43 @@ GRAPHQL_ENDPOINT = "https://api-op.grid.gg/central-data/graphql"
 GraphQL_ENDPOINT_LD = "https://api-op.grid.gg/live-data-feed/series-state/graphql"
 
 
+
+query2 = """
+query getTeams{
+    teams (
+    first: 50,
+    filter: {
+        titleId: 28
+    }
+    )
+    orderBy: StartTimeScheduled
+    orderDirection: DESC
+)
+{
+        totalCount
+        pageInfo {
+            hasPreviousPage
+            hasNextPage
+            startCursor
+            endCursor
+        }
+        edges {
+            node {
+                id
+                title {
+                    id
+                }
+                tournament {
+                    id
+                    name
+                }
+            }
+        }
+    }
+}
+"""
+
+
 graphql_query = """
 query Series {
     allSeries (
@@ -44,10 +81,10 @@ query Series {
         }
     }
 }
-"""
+#"""
 
 payload = {
-    "query": graphql_query
+    "query": query2
 }
 
 response = rq.post(GRAPHQL_ENDPOINT, headers=headers, data=json.dumps(payload))
